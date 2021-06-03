@@ -1,0 +1,3 @@
+- sending an e-mail in a messagenger - make it a separate message - saves clicks when copying and pasting
+- using 'ok' may look passive-agressive 
+- change numeraire and round till you get few significant digits (esp. in table) 
